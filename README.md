@@ -14,6 +14,6 @@ run benchmark
 result
 
 ```
-node cost:1s result:165580141
-ssvm cost:40s result:165580141
+node cost:9s result:1836311903
+ssvm cost:4s result:1836311903
 ```
